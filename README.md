@@ -1,4 +1,4 @@
-Platilla de la elicitación de requerimientos para el sistema de control de registro de actividades de los alumnos del servicio social de la universidad veracruzana.
+Plantilla de la especificación de requerimientos para el sistema de control de registro de actividades de los alumnos del servicio social de la universidad veracruzana.
 
 Intregrantes:
 Missael Hernáandez Rosado
